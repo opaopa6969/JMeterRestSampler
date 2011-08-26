@@ -1,7 +1,7 @@
 - Build
 Add a <i>properties/${user.name}.properties</i> file and define the <i>jmeter.home</i> property. Then run ant.
 ${user.name} is the username of the logged in user.
-This code has been tested with JMeter 2.3.4 (http://archive.apache.org/dist/jakarta/jmeter/binaries/jakarta-jmeter-2.3.4.tgz)
+This code has been tested with JMeter 2.5 (http://archive.apache.org/dist/jakarta/jmeter/binaries/jakarta-jmeter-2.5.tgz)
 
 - Install
 Edit the ${jmeter.home}/bin/user.properties and set the searh_paths property to the location of the JMeterRestSampler.java file:

@@ -1,2 +1,4 @@
 Version 0.1 - 31/01/2010
 - JMeterRestSampler, moved in his own repository/project on googlecode.
+Version 0.2 - 26/08/2011
+- JMeterRestSampler, modify for JMeter2.5 and fix a problem POST and PUT method with body in multi byte character.
